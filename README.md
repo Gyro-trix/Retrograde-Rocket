@@ -6,12 +6,12 @@ Momentum is maintained and needs to be adjusted to avoid oncoming obstacles from
 
 ## Starting Features
 
-Score counter that increases for each obstacle passed.
-Speed of obstacles slowly increase as the game goes on
-Scoreboard tracking
+- Score counter that increases for each obstacle passed.
+- Speed of obstacles slowly increase as the game goes on
+- Scoreboard tracking
 
 ## Future Features
 
-Different playable characters
-Different difficulty levels
-Random bosses (Extra future content)
+- Different playable characters
+- Different difficulty levels
+- Random bosses (Extra future content)
